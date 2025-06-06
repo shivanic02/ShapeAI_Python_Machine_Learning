@@ -60,19 +60,17 @@ This project applies **Linear Regression** to the classic **Boston Housing datas
 3. Run the script or open it in Jupyter Notebook.
 
 🔗 SHAPEAI Links
-visit:
-<a href="https://www.shapeai.tech"> www.shapeai.tech</a>
+<a href="https://www.shapeai.tech"> 🌐www.shapeai.tech</a>
 or follow SHAPEAI on:
 <li><a href=
-"https://in.linkedin.com/company/shapeai">LinkedIn</a>
+"https://in.linkedin.com/company/shapeai">🔗LinkedIn</a>
 <li><a href=
-"https://www.instagram.com/shape.ai/?hl=en">Instagram</a>
+"https://www.instagram.com/shape.ai/?hl=en">📷Instagram</a>
 <li><a
 href=
-"https://www.youtube.com/channel/UCTUvDLTW9meuDXWcbmISPdA">YouTu
-be</a>
+"https://www.youtube.com/channel/UCTUvDLTW9meuDXWcbmISPdA">▶🎥YouTube</a>
 <li><a href=
-"https://github.com/shapeai">GitHub</a>
+"https://github.com/shapeai">💻GitHub</a>
 
 
 
