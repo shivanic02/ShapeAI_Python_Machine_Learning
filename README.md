@@ -1,17 +1,66 @@
-# SHAPEAI PYTHON AND MACHINE LEARNING BOOTCAMP
-Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI
-</b>.
-The instructor during the session was Mr. Shaurya Sinha (Data Analyst Intern at Jio). I got to
-learn a lot during these 7 days and it was an amazing experience learning with SHAPEAI.
-<br><br>Here's the link for you to watch the sessions as well<br>
-<a href="https://www.youtube.com/playlist?list=PL7zl8TDRnbulNEA-59W7wWgCWE8LEOD6h"> <img src="https://github.com/ShapeAI/PYTHON-AND-DATA-ANALYTICS/blob/main/YOUTUBE%20THUMBNAIL-5.png"> </a>
-<br>I got to have hands on experience on:
-<li>Python
-<li>Machine Learning
-<li>Tensorflow
-<br>during these 7 days, and everything was explained from the very basics so that
-anyone with zero experience on programming can learn.
-I enjoyed these 7 days, you can as well. To register for next free 7 days bootcamp, visit:
+# 🏠 Boston Housing Price Prediction
+
+This project was created during the **7-Day Python and Machine Learning Bootcamp** hosted by [SHAPEAI](https://www.shapeai.tech), with guidance from **Mr. Shaurya Sinha** (Data Analyst Intern at Jio). The bootcamp provided a hands-on introduction to Python, Machine Learning, and TensorFlow, making it accessible even to those with no prior coding experience.
+
+## 📺 Bootcamp Link
+
+Watch the full session playlist here:  
+[![Bootcamp Playlist](https://github.com/ShapeAI/PYTHON-AND-DATA-ANALYTICS/blob/main/YOUTUBE%20THUMBNAIL-5.png)](https://www.youtube.com/playlist?list=PL7zl8TDRnbulNEA-59W7wWgCWE8LEOD6h)
+
+---
+
+## 📊 Project Overview
+
+This project applies **Linear Regression** to the classic **Boston Housing dataset** to predict housing prices based on 13 input features such as crime rate, number of rooms, tax rate, etc.
+
+### 🔍 Dataset Summary
+
+- 📍 **Source**: UCI ML Repository (via `sklearn.datasets.load_boston`)
+- 📦 **Instances**: 506
+- 🧮 **Features**: 13 predictors + 1 target (`MEDV`)
+- 🏷️ **Target**: Median home value (`MEDV`) in $1000s
+
+---
+
+## ⚙️ What This Project Does
+
+- Loads the Boston Housing dataset
+- Verifies data integrity (no missing values)
+- Splits data into train/test sets
+- Trains a **Linear Regression** model using scikit-learn
+- Evaluates performance using **RMSE**
+
+### 📈 Performance
+
+| Dataset | RMSE |
+|---------|------|
+| Train   | 4.71 |
+| Test    | 4.69 |
+
+---
+
+## 🧠 Tech Stack
+
+- Python 🐍  
+- NumPy, Pandas  
+- scikit-learn (Linear Regression, MSE)
+
+---
+
+## 🚀 How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/boston-house-prices.git
+   cd boston-house-prices
+
+2. Install dependencies:
+   pip install numpy pandas scikit-learn
+
+3. Run the script or open it in Jupyter Notebook.
+
+🔗 SHAPEAI Links
+visit:
 <a href="https://www.shapeai.tech"> www.shapeai.tech</a>
 or follow SHAPEAI on:
 <li><a href=
@@ -24,4 +73,6 @@ href=
 be</a>
 <li><a href=
 "https://github.com/shapeai">GitHub</a>
+
+
 
